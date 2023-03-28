@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eReconciliationApp.SharedLibrary", "eReconciliationApp.SharedLibrary\eReconciliationApp.SharedLibrary.csproj", "{867E6148-B45C-4884-A24C-4CDF4904EB2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eReconciliationApp.Core", "eReconciliationApp.Core\eReconciliationApp.Core.csproj", "{9DB5E907-00C2-471D-BF77-73D8D5655F7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eReconciliationApp.Repository", "eReconciliationApp.Repository\eReconciliationApp.Repository.csproj", "{8D8F0E26-9C77-4317-8369-4E07677D1A42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eReconciliationApp.Service", "eReconciliationApp.Service\eReconciliationApp.Service.csproj", "{F965126A-8376-4EDB-9739-A9BF9521FD88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eReconciliationApp.WebAPI", "eReconciliationApp.WebAPI\eReconciliationApp.WebAPI.csproj", "{54DB7374-0587-467D-8A28-4C27FA06EBE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{867E6148-B45C-4884-A24C-4CDF4904EB2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{867E6148-B45C-4884-A24C-4CDF4904EB2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{867E6148-B45C-4884-A24C-4CDF4904EB2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{867E6148-B45C-4884-A24C-4CDF4904EB2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DB5E907-00C2-471D-BF77-73D8D5655F7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DB5E907-00C2-471D-BF77-73D8D5655F7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DB5E907-00C2-471D-BF77-73D8D5655F7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DB5E907-00C2-471D-BF77-73D8D5655F7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D8F0E26-9C77-4317-8369-4E07677D1A42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D8F0E26-9C77-4317-8369-4E07677D1A42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D8F0E26-9C77-4317-8369-4E07677D1A42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D8F0E26-9C77-4317-8369-4E07677D1A42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F965126A-8376-4EDB-9739-A9BF9521FD88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F965126A-8376-4EDB-9739-A9BF9521FD88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F965126A-8376-4EDB-9739-A9BF9521FD88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F965126A-8376-4EDB-9739-A9BF9521FD88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54DB7374-0587-467D-8A28-4C27FA06EBE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54DB7374-0587-467D-8A28-4C27FA06EBE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54DB7374-0587-467D-8A28-4C27FA06EBE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54DB7374-0587-467D-8A28-4C27FA06EBE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {692F4552-E21F-4EBA-9ECF-3C5CE7FF3A88}
+	EndGlobalSection
+EndGlobal
